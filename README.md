@@ -1,4 +1,4 @@
-#### This is a Skyrim Special Edition modificcation 
+#### This is a Skyrim Special Edition modification 
 
 #### Project created just for fun
 
