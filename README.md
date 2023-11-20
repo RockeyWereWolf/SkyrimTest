@@ -1,6 +1,6 @@
 #### This is a Skyrim Special Edition modificcation 
 
-Project created just for fun
+#### Project created just for fun
 
 #### Requirements
 * [SKSE64](https://skse.silverlock.org/)
